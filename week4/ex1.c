@@ -1,3 +1,5 @@
+// Child process alwasys has PARENT_ID + 1 process id
+
 #include <stdio.h>
 #include <sys/types.h>
 #include <string.h>
