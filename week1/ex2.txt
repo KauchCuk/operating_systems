@@ -1,7 +1,0 @@
-    1  man whoami
-    2  cd home
-    3  cd week1/
-    4  pwd
-    5  ls
-    6  man man
-    7  history > ex2.txt
