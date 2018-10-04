@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   2096	    640	      8	   2744	    ab8	test_p
