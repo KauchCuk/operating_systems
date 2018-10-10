@@ -1,0 +1,2 @@
+The physical address is the address of physical memory. Virtual address is the address in virtual memory which
+then mapped to the corresponded physical address with page table.

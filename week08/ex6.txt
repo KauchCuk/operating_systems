@@ -1,0 +1,7 @@
+2^11, because for every entry we will have:
+ 1 caching to be disabled bit,
+ 1 referenced bit,
+ 1 modified bit,
+ 1 protection bit,
+ 1 present/absent bit,
+thus we have left 11 bits which we can spend to frame page number
