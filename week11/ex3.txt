@@ -1,0 +1,3 @@
+In the first case we firstly fill the buffer, then fork (copy of buffer created to child process) and then print
+the new line symbol in each process ->> Hello printed two time. In second program we fill the buffer with \n 
+at the end -> it cleans before fork.
